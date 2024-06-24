@@ -22,7 +22,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=PJDEEPESH&show_icons=true&include_all_commits=true&bg_color=151515&title_color=ffff&text_color=fff9&icon_color=52CB61" />
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PJDEEPESH&bg_color=151515&title_color=ffff&text_color=fff9&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PJDEEPESH&bg_color=151515&title_color=ffff&text_color=fff9&layout=compact" />
 
 <br>
 
