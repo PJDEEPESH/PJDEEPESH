@@ -2,7 +2,6 @@
   <a href = "https://github.com/PJDEEPESH/PJDEEPESH/blob/main/README.md">
 <img align="center" src="https://readme-typing-svg.herokuapp.com?color=62F7F3&size=25&lines=Welcome+to+My+GitHub+Profile!">   </a>
 </h1>
-
 <h1 align="center">Hi 👋, I'm Deepesh</h1>
 
 <h3 align="center">A passionate student on coding and learning new things</h3>
