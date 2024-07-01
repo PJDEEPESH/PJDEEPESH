@@ -18,8 +18,8 @@
 
 - 📫 How to reach me **deepeshp.j.2004@gmail.com**
 
-- My resumes link for Web3 :
-- My resume link for SDE : 
+- My resumes link for <a href = "https://drive.google.com/file/d/1rMZQy0gI4B455aHH9aa7qUzh77DI3n7P/view?usp=drive_link"> **Web3** </a>
+- My resume link for <a href = "https://drive.google.com/file/d/1rMZQy0gI4B455aHH9aa7qUzh77DI3n7P/view?usp=drive_link">**SDE**</a>  
 
 
 <p align="right">
