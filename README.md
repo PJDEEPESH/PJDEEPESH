@@ -30,7 +30,6 @@
 
 <br>
 
-
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=PJDEEPESH&theme=dark)
 
 # 💻Technologies
