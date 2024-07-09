@@ -59,6 +59,18 @@
 </a>
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu">
 
+ ### Operating Systems
+  [![My Skills](https://skillicons.dev/icons?i=apple,windows,ubuntu)](https://skillicons.dev)
+  
+
+## 🎮 Hobbies & Interests
+
+- 🏃 Hitting Gym
+- 📖 Reading Novels
+- 🎧 Listening Music
+- 🎥 Learning New Things
+  
+
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/deepu_deepesh_?igsh=anQ3emZ4ZmNod3cx) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/p-j-deepesh-27546a20b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXpO0R2rRQmmlCfNMG7iaAw%3D%3D) 
