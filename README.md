@@ -48,6 +48,10 @@
 [![Cryptography](https://img.shields.io/badge/Cryptography-%23121011.svg?style=for-the-badge&logo=cryptography&logoColor=white)](https://en.wikipedia.org/wiki/Cryptography)
 [![Metaverse](https://img.shields.io/badge/Metaverse-%23000000.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Metaverse)
 [![NFTs](https://img.shields.io/badge/NFTs-%23FF5733.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Non-fungible_token)
+[![Hardhat](https://img.shields.io/badge/Hardhat-%23FF5733.svg?style=for-the-badge)](https://hardhat.org/)
+[![Truffle Ganache](https://img.shields.io/badge/Truffle%20Ganache-%23FF5733.svg?style=for-the-badge)](https://www.trufflesuite.com/ganache)
+
+
 
 <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linux.org/&ved=2ahUKEwiG44mDldaFAxUxxzgGHbJ5BFMQFnoECEIQAQ&usg=AOvVaw0OoiTmQ34Do398976duTL0" target="_blank">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux">
