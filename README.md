@@ -1,87 +1,153 @@
-<h1>
-<a href = "https://github.com/PJDEEPESH/PJDEEPESH/blob/main/README.md">
-  
-<img align="center" src="https://readme-typing-svg.herokuapp.com?color=62F7F3&size=25&lines=Welcome+to+My+GitHub+Profile!">  </a>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Deepesh+%F0%9F%91%8B;Tech+Lead+%7C+AI+Developer;RAG+%7C+Agentic+AI+%7C+Full-Stack;Building+Real+AI+for+Real+Problems" alt="Typing SVG" />
 </h1>
-<h1 align="center">Hi 👋, I'm Deepesh</h1>
 
-<h3 align="center">A passionate student on coding and learning new things</h3>
-
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
-
-- ✨ My Portfolio : https://pjdeepesh.netlify.app
-- 🌱 I’m currently working on  **E-commerce Websites**
-
-- 🌱 I’m currently learning and building  **Decentralized apps**
-
-- 👨‍💻 All of my projects are available at [https://github.com/PJDEEPESH](https://github.com/PJDEEPESH)
-
-- 📫 How to reach me **deepeshp.j.2004@gmail.com**
-
-- My resumes link for <a href = "https://drive.google.com/file/d/1AOakmIzsooqP1eGcAKceNDRwvo_LknmB/view?usp=drive_link"> **Web3** </a>
-- My resume link for <a href = "https://drive.google.com/file/d/1rMZQy0gI4B455aHH9aa7qUzh77DI3n7P/view?usp=drive_link">**SDE**</a>  
-
-
-<p align="right">
-  
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=PJDEEPESH&show_icons=true&include_all_commits=true&bg_color=151515&title_color=ffff&text_color=fff9&icon_color=52CB61" />
+<p align="center">
+  <a href="https://pjdeepesh.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" /></a>
+  <a href="mailto:deepeshp.j.2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/p-j-deepesh-27546a20b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/PJDeepesh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PJDEEPESH&bg_color=151515&title_color=ffff&text_color=fff9&layout=compact" />
+---
 
-<br>
+## 🧠 About Me
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=PJDEEPESH&theme=dark)
+I'm a **CSE graduate (2025)** from IIIT RGUKT RK Valley, currently working as a **Tech Lead – AI Developer**. Over the past 7+ months I've been heads-down building production AI systems — RAG pipelines, agentic workflows, voice assistants, and intelligent automations that solve real business problems.
 
-# 💻Technologies
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![ReactJS](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![mongodb](https://img.shields.io/badge/mongodb-%234F5D95.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+I don't just fine-tune prompts. I **architect, ship, and lead** — designing systems end-to-end, from database schema and API design to frontend interfaces and AI agent orchestration, while guiding a technical team to deliver at scale.
 
-# 💻WEB3
-[![Solidity](https://img.shields.io/badge/Solidity-%23339933.svg?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org/) 
-[![Ethereum](https://img.shields.io/badge/Ethereum-%23646BD4.svg?style=for-the-badge&logo=ethereum&logoColor=white)](https://ethereum.org/) 
-[![Blockchain](https://img.shields.io/badge/Blockchain-%235665A4.svg?style=for-the-badge&logo=blockchain.com&logoColor=white)](https://www.blockchain.com/) 
-[![Supply Chain](https://img.shields.io/badge/Supply_Chain-%234BAF4F.svg?style=for-the-badge&logo=supplychain.com&logoColor=white)](https://www.example.com/) 
-[![MetaMask](https://img.shields.io/badge/MetaMask-%xF2C94C.svg?style=for-the-badge&logo=metamask&logoColor=white)](https://metamask.io/)
-[![Hyperledger](https://img.shields.io/badge/Hyperledger-%x2F313131.svg?style=for-the-badge&logo=hyperledger&logoColor=white)](https://www.hyperledger.org/)
-[![Ethereum Wallet](https://img.shields.io/badge/Ethereum_Wallet-%233C3C3D.svg?style=for-the-badge&logo=ethereum&logoColor=white)](https://ethereum.org/)
-[![Cryptography](https://img.shields.io/badge/Cryptography-%23121011.svg?style=for-the-badge&logo=cryptography&logoColor=white)](https://en.wikipedia.org/wiki/Cryptography)
-[![Metaverse](https://img.shields.io/badge/Metaverse-%23000000.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Metaverse)
-[![NFTs](https://img.shields.io/badge/NFTs-%23FF5733.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Non-fungible_token)
-[![Hardhat](https://img.shields.io/badge/Hardhat-%23FF5733.svg?style=for-the-badge)](https://hardhat.org/)
-[![Truffle Ganache](https://img.shields.io/badge/Truffle%20Ganache-%23FF5733.svg?style=for-the-badge)](https://www.trufflesuite.com/ganache)
+- 🏗️ **System Design** — I design scalable architectures: microservices, async pipelines, vector store integrations, and multi-agent systems from the ground up
+- 👥 **Team Leadership** — Currently leading a technical team on AI automation workflows, handling planning, code reviews, and delivery
+- 🌐 **Full-Stack** — Comfortable across the entire stack: React frontends → REST/FastAPI backends → AI/ML layers → cloud deployment
 
+---
 
+## 🚀 What I've Built
 
-<a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linux.org/&ved=2ahUKEwiG44mDldaFAxUxxzgGHbJ5BFMQFnoECEIQAQ&usg=AOvVaw0OoiTmQ34Do398976duTL0" target="_blank">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux">
-</a>
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code">
-</a>
-<a href="https://netbeans.apache.org/" target="_blank">
-  <img height="40" src="https://logos-download.com/wp-content/uploads/2020/07/NetBeans_Logo.png" alt="NetBeans">
-</a>
-<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu">
+### 🗂️ Multi-Format RAG Chatbot
+> Accepts **PDFs, CSVs, images (PNG/JPEG), and even scanned PDFs** — anything you throw at it.
+- Parses & chunks diverse file types, embeds into vector stores, and retrieves context-aware answers via LLMs
+- Handles OCR for scanned documents, structured extraction for spreadsheets, and semantic search across all formats
+- **Stack:** Python · FastAPI · LangChain · LangGraph · Milvus / pgvector · OpenAI / Groq
 
- ### Operating Systems
-  [![My Skills](https://skillicons.dev/icons?i=apple,windows,ubuntu)](https://skillicons.dev)
-  
+---
 
-## 🎮 Hobbies & Interests
+### 💸 Finance Automation Pipeline — *85% reduction in manual work*
+- Built end-to-end automation workflows for finance teams using **n8n + FastAPI**
+- Automated invoice processing, reconciliation, and reporting that previously required hours of daily manual effort
+- Integrated with external APIs and internal databases for seamless data flow
+- **Stack:** n8n · FastAPI · Python · PostgreSQL · REST APIs
 
-- 🏃 Hitting Gym
-- 📖 Reading Novels
-- 🎧 Listening Music
-- 🎥 Learning New Things
-  
+---
 
-## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/deepu_deepesh_?igsh=anQ3emZ4ZmNod3cx) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/p-j-deepesh-27546a20b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXpO0R2rRQmmlCfNMG7iaAw%3D%3D) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/PJDeepesh/)
-<img src="https://komarev.com/ghpvc/?username=PJDEEPESH" width=160px/>
+### 🎙️ Multilingual Voice Assistant
+- Built a **bilingual/multilingual voice agent** with real-time language detection and context-switching
+- Supports natural multi-turn conversations across languages without losing session context
+- Combines NLP, STT (Speech-to-Text), and TTS (Text-to-Speech) into a unified agent loop
+- **Stack:** Python · NLP · TTS/STT APIs · LLMs · WebSockets
 
+---
 
+### 🕷️ AI-Powered Lead Generation Automation
+- Scraped and enriched lead data at scale using **Puppeteer, Playwright, Selenium, BeautifulSoup, and Requests**
+- Layered AI on top of raw scraped data to score, classify, and personalize outreach
+- Automated the full funnel from discovery → enrichment → CRM ingestion
+- **Stack:** Puppeteer · Playwright · Selenium · BS4 · Python · n8n · CRM APIs
 
+---
 
+### 🇦🇷 Yara AI — WhatsApp Tourist Guide (Buenos Aires)
+> *"Find me an underground techno party tonight"* — Yara knows.
+- A WhatsApp chatbot that recommends **local bars, cafés, events, and underground parties** in Buenos Aires
+- Backed by a **Milvus vector database** auto-updated every 24 hours from a live Excel source
+- If a request isn't in the DB, the bot **intelligently generates a personalized response** using LLM reasoning — no dead ends
+- Handles multilingual conversations (15+ languages) with conversation memory
+- **Stack:** Python · Flask · Twilio / Meta WhatsApp API · OpenAI · Milvus · PostgreSQL
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend & APIs**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6B35?style=flat-square)
+
+**AI / ML**  
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-00C853?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-7C4DFF?style=flat-square)
+![Generative AI](https://img.shields.io/badge/Generative_AI-FF4081?style=flat-square)
+
+**Automation & Scraping**  
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat-square)
+
+**Databases & Vector Stores**  
+![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**System Design & Architecture**  
+![Microservices](https://img.shields.io/badge/Microservices-FF6B35?style=flat-square)
+![REST Architecture](https://img.shields.io/badge/REST_Architecture-009688?style=flat-square)
+![Async Pipelines](https://img.shields.io/badge/Async_Pipelines-7C4DFF?style=flat-square)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-00D9FF?style=flat-square)
+
+**Cloud & DevOps**  
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PJDEEPESH&show_icons=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&border_color=00D9FF22" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PJDEEPESH&layout=compact&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=00D9FF22" height="165" />
+</p>
+
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com/?user=PJDEEPESH&theme=dark&background=0D1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to collaborating on **AI products, automation systems, and anything that pushes the limits of what LLMs can do in production.**
+
+📬 **deepeshp.j.2004@gmail.com** | 📍 Hyderabad, India
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PJDEEPESH&color=00D9FF&style=flat-square" />
+</p>
