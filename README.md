@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Deepesh;Tech+Lead+%7C+AI+Developer;Building+Production+AI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Deepesh;Tech+Lead+%7C+AI+Developer;Building+Production+AI+Systems" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -13,9 +13,9 @@
 
 ## About Me
 
-I'm a **CSE graduate (2025)** from IIIT RGUKT RK Valley, currently working as a **Tech Lead – AI Developer**. Over the past 7+ months I've been heads-down building production AI systems — RAG systems, multi-agent workflows, automation pipelines, and agentic AI solutions.
+I'm a **CSE graduate (2025)** from IIIT RGUKT RK Valley, currently working as a **Tech Lead – AI Developer**. Over the past 0-2 years I've been heads-down building production AI systems — RAG systems, multi-agent orchestration, and enterprise automation platforms that solve real business problems.
 
-I don't just fine-tune prompts. I **architect, ship, and lead** — designing systems end-to-end, from database schema and API design to frontend interfaces and AI agent orchestration, while guiding teams through technical challenges.
+I don't just fine-tune prompts. I **architect, ship, and lead** — designing systems end-to-end, from database schema and API design to frontend interfaces and AI agent orchestration, while guiding teams through complex technical challenges.
 
 ### Core Expertise
 
@@ -30,7 +30,7 @@ I don't just fine-tune prompts. I **architect, ship, and lead** — designing sy
 ### Production AI Projects
 
 **Agentic RAG MCP**  
-Multi-format RAG system with agentic AI orchestration. Upload PDFs, PPTXs, CSVs, DOCX, XLSX, and ask questions. Uses 5 cooperating AI agents communicating through structured MCP messages on a shared message bus.
+Multi-format RAG system with agentic AI orchestration. Upload PDFs, PPTXs, CSVs, DOCX, XLSX, and ask questions. Uses 5 cooperating AI agents communicating through structured MCP messages on a shared vector database.
 - Real-time MCP Trace panel for full visibility of agent interactions
 - Support for scanned PDFs (OCR), structured data extraction, semantic search across formats
 - **Stack:** Python · FastAPI · LangChain · LangGraph · Milvus / pgvector · OpenAI / Groq
@@ -85,25 +85,6 @@ Smart WhatsApp chatbot for local recommendations backed by vector database.
 - Intelligent response generation when data not in DB — no dead ends
 - Supports 15+ languages with conversation memory
 - **Stack:** Python · Flask · Twilio / Meta WhatsApp API · OpenAI · Milvus · PostgreSQL
-
----
-
-## All Projects
-
-| Repository | Description | Stack |
-|---|---|---|
-| [AgenticRagMCP](https://github.com/PJDEEPESH/AgenticRagMCP) | Multi-agent RAG with MCP message bus | Python, FastAPI, LangGraph |
-| [EmailWarmUpAgent](https://github.com/PJDEEPESH/EmailWarmUpAgent) | Multi-tenant email warmup SaaS | Python, FastAPI |
-| [EmailMassOutreachAgent](https://github.com/PJDEEPESH/EmailMassOutreachAgent) | Email campaign automation SaaS | Python, n8n |
-| [EmailSummarizeAgent](https://github.com/PJDEEPESH/EmailSummarizeAgent) | Email + PDF summarizer with WhatsApp delivery | Python |
-| [Customized-Chat-Bot](https://github.com/PJDEEPESH/Customized-Chat-Bot) | Document-trained chatbot | Python |
-| [Whatsappchatbot](https://github.com/PJDEEPESH/Whatsappchatbot) | Multilingual WhatsApp RAG chatbot | Python, Twilio |
-| [AI-Sales-Marketing](https://github.com/PJDEEPESH/AI-Sales-Marketing) | AI sales automation for B2B | JavaScript |
-| [Person-AI](https://github.com/PJDEEPESH/Person-AI) | Persona-based AI chatbot | TypeScript |
-| [SLNS-Billing-Software](https://github.com/PJDEEPESH/SLNS-Billing-Software-) | Billing software MVP | TypeScript |
-| [DataScience_Assignment](https://github.com/PJDEEPESH/DataScience_Assignment) | EDA, Lookalike Model, Customer Segmentation | Jupyter, Python |
-| [Fake-Job-Prediction](https://github.com/PJDEEPESH/Fake-Job-Prediction) | ML-based fraudulent job detection | Python, Scikit-learn |
-| [Xss_Vulnerability_LLm_Agent](https://github.com/PJDEEPESH/Xss_Vulnerability_LLm_Agent) | Security vulnerability analysis with LLM | Python, PHP |
 
 ---
 
