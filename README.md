@@ -15,6 +15,8 @@
 
 I'm a **CSE graduate (2025)** from IIIT RGUKT RK Valley, currently working as a **Tech Lead – AI Developer**. Over the past 0-2 years I've been heads-down building production AI systems — RAG systems, multi-agent orchestration, and enterprise automation platforms that solve real business problems.
 
+Beyond coding, I function as the sole technical decision maker — evaluating tools, managing costs,defining architecture, and delivering end-to-end from requirements to production deployment.
+
 I don't just fine-tune prompts. I **architect, ship, and lead** — designing systems end-to-end, from database schema and API design to frontend interfaces and AI agent orchestration, while guiding teams through complex technical challenges.
 
 ### Core Expertise
