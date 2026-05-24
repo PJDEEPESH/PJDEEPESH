@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Deepesh+%F0%9F%91%8B;Tech+Lead+%7C+AI+Developer;RAG+%7C+Agentic+AI+%7C+Full-Stack;Building+Real+AI+for+Real+Problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Deepesh;Tech+Lead+%7C+AI+Developer;Building+Production+AI+Systems" />
 </h1>
 
 <p align="center">
@@ -11,63 +11,103 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-I'm a **CSE graduate (2025)** from IIIT RGUKT RK Valley, currently working as a **Tech Lead – AI Developer**. Over the past 7+ months I've been heads-down building production AI systems — RAG pipelines, agentic workflows, voice assistants, and intelligent automations that solve real business problems.
+I'm a **CSE graduate (2025)** from IIIT RGUKT RK Valley, currently working as a **Tech Lead – AI Developer**. Over the past 7+ months I've been heads-down building production AI systems — RAG systems, multi-agent workflows, automation pipelines, and agentic AI solutions.
 
-I don't just fine-tune prompts. I **architect, ship, and lead** — designing systems end-to-end, from database schema and API design to frontend interfaces and AI agent orchestration, while guiding a technical team to deliver at scale.
+I don't just fine-tune prompts. I **architect, ship, and lead** — designing systems end-to-end, from database schema and API design to frontend interfaces and AI agent orchestration, while guiding teams through technical challenges.
 
-- 🏗️ **System Design** — I design scalable architectures: microservices, async pipelines, vector store integrations, and multi-agent systems from the ground up
-- 👥 **Team Leadership** — Currently leading a technical team on AI automation workflows, handling planning, code reviews, and delivery
-- 🌐 **Full-Stack** — Comfortable across the entire stack: React frontends → REST/FastAPI backends → AI/ML layers → cloud deployment
+### Core Expertise
+
+- **System Design** — I design scalable architectures: microservices, async pipelines, vector store integrations, and multi-agent systems from the ground up
+- **Team Leadership** — Currently leading a technical team on AI automation workflows, handling planning, code reviews, and delivery
+- **Full-Stack** — Comfortable across the entire stack: React frontends → REST/FastAPI backends → AI/ML layers → cloud deployment
 
 ---
 
-## 🚀 What I've Built
+## What I've Built
 
-### 🗂️ Multi-Format RAG Chatbot
-> Accepts **PDFs, CSVs, images (PNG/JPEG), and even scanned PDFs** — anything you throw at it.
-- Parses & chunks diverse file types, embeds into vector stores, and retrieves context-aware answers via LLMs
-- Handles OCR for scanned documents, structured extraction for spreadsheets, and semantic search across all formats
+### Production AI Projects
+
+**Agentic RAG MCP**  
+Multi-format RAG system with agentic AI orchestration. Upload PDFs, PPTXs, CSVs, DOCX, XLSX, and ask questions. Uses 5 cooperating AI agents communicating through structured MCP messages on a shared message bus.
+- Real-time MCP Trace panel for full visibility of agent interactions
+- Support for scanned PDFs (OCR), structured data extraction, semantic search across formats
 - **Stack:** Python · FastAPI · LangChain · LangGraph · Milvus / pgvector · OpenAI / Groq
 
----
+**Email Warmup Agent**  
+Multi-tenant SaaS platform for email warmup and deliverability optimization.
+- Automated inbox monitoring, smart scheduling, engagement tracking
+- Prevents emails from hitting spam folders through intelligent warmup sequences
+- **Stack:** Python · FastAPI · PostgreSQL · Email APIs
 
-### 💸 Finance Automation Pipeline — *85% reduction in manual work*
-- Built end-to-end automation workflows for finance teams using **n8n + FastAPI**
-- Automated invoice processing, reconciliation, and reporting that previously required hours of daily manual effort
-- Integrated with external APIs and internal databases for seamless data flow
+**Email Mass Outreach Agent**  
+SaaS platform for intelligent email outreach campaigns at scale.
+- AI-powered personalization, list segmentation, and response handling
+- Automated follow-up sequences with contextual awareness
+- **Stack:** Python · n8n · FastAPI · CRM integrations
+
+**Email Summarize Agent**  
+24/7 AI agent that monitors Microsoft 365 inboxes, summarizes emails and PDFs with Google Gemini, delivers WhatsApp briefings via Twilio.
+- Real-time email processing pipeline
+- Attachment processing (PDFs, documents)
+- **Stack:** Python · Microsoft 365 API · Google Gemini · Twilio WhatsApp
+
+**Multi-Format RAG Chatbot**  
+Advanced RAG system accepting PDFs, CSVs, images, scanned PDFs, and unstructured text.
+- Handles OCR for scanned documents, structured extraction for spreadsheets
+- Semantic search across all document types
+- **Stack:** Python · FastAPI · LangChain · Milvus / pgvector · OpenAI / Groq
+
+**Finance Automation Pipeline** (85% reduction in manual work)
+End-to-end automation for finance teams using n8n + FastAPI.
+- Invoice processing, reconciliation, automated reporting
+- Integrated with external APIs and internal databases
 - **Stack:** n8n · FastAPI · Python · PostgreSQL · REST APIs
 
----
-
-### 🎙️ Multilingual Voice Assistant
-- Built a **bilingual/multilingual voice agent** with real-time language detection and context-switching
-- Supports natural multi-turn conversations across languages without losing session context
-- Combines NLP, STT (Speech-to-Text), and TTS (Text-to-Speech) into a unified agent loop
+**Multilingual Voice Assistant**
+Bilingual/multilingual voice agent with real-time language detection.
+- Natural multi-turn conversations across languages without losing context
+- Combines NLP, STT (Speech-to-Text), and TTS (Text-to-Speech)
 - **Stack:** Python · NLP · TTS/STT APIs · LLMs · WebSockets
 
----
+**AI-Powered Lead Generation Automation**
+Scraping and enrichment at scale with AI layering.
+- Data scraping using Puppeteer, Playwright, Selenium, BeautifulSoup
+- AI scoring, classification, and personalization for outreach
+- Automated discovery → enrichment → CRM ingestion pipeline
+- **Stack:** Puppeteer · Playwright · Selenium · BeautifulSoup · Python · n8n · CRM APIs
 
-### 🕷️ AI-Powered Lead Generation Automation
-- Scraped and enriched lead data at scale using **Puppeteer, Playwright, Selenium, BeautifulSoup, and Requests**
-- Layered AI on top of raw scraped data to score, classify, and personalize outreach
-- Automated the full funnel from discovery → enrichment → CRM ingestion
-- **Stack:** Puppeteer · Playwright · Selenium · BS4 · Python · n8n · CRM APIs
-
----
-
-### 🇦🇷 Yara AI — WhatsApp Tourist Guide (Buenos Aires)
-> *"Find me an underground techno party tonight"* — Yara knows.
-- A WhatsApp chatbot that recommends **local bars, cafés, events, and underground parties** in Buenos Aires
-- Backed by a **Milvus vector database** auto-updated every 24 hours from a live Excel source
-- If a request isn't in the DB, the bot **intelligently generates a personalized response** using LLM reasoning — no dead ends
-- Handles multilingual conversations (15+ languages) with conversation memory
+**Yara AI — WhatsApp Tourist Guide (Buenos Aires)**
+Smart WhatsApp chatbot for local recommendations backed by vector database.
+- Recommends bars, cafés, events, underground parties in Buenos Aires
+- Milvus vector database auto-updated every 24 hours from live Excel source
+- Intelligent response generation when data not in DB — no dead ends
+- Supports 15+ languages with conversation memory
 - **Stack:** Python · Flask · Twilio / Meta WhatsApp API · OpenAI · Milvus · PostgreSQL
 
 ---
 
-## 🛠️ Tech Stack
+## All Projects
+
+| Repository | Description | Stack |
+|---|---|---|
+| [AgenticRagMCP](https://github.com/PJDEEPESH/AgenticRagMCP) | Multi-agent RAG with MCP message bus | Python, FastAPI, LangGraph |
+| [EmailWarmUpAgent](https://github.com/PJDEEPESH/EmailWarmUpAgent) | Multi-tenant email warmup SaaS | Python, FastAPI |
+| [EmailMassOutreachAgent](https://github.com/PJDEEPESH/EmailMassOutreachAgent) | Email campaign automation SaaS | Python, n8n |
+| [EmailSummarizeAgent](https://github.com/PJDEEPESH/EmailSummarizeAgent) | Email + PDF summarizer with WhatsApp delivery | Python |
+| [Customized-Chat-Bot](https://github.com/PJDEEPESH/Customized-Chat-Bot) | Document-trained chatbot | Python |
+| [Whatsappchatbot](https://github.com/PJDEEPESH/Whatsappchatbot) | Multilingual WhatsApp RAG chatbot | Python, Twilio |
+| [AI-Sales-Marketing](https://github.com/PJDEEPESH/AI-Sales-Marketing) | AI sales automation for B2B | JavaScript |
+| [Person-AI](https://github.com/PJDEEPESH/Person-AI) | Persona-based AI chatbot | TypeScript |
+| [SLNS-Billing-Software](https://github.com/PJDEEPESH/SLNS-Billing-Software-) | Billing software MVP | TypeScript |
+| [DataScience_Assignment](https://github.com/PJDEEPESH/DataScience_Assignment) | EDA, Lookalike Model, Customer Segmentation | Jupyter, Python |
+| [Fake-Job-Prediction](https://github.com/PJDEEPESH/Fake-Job-Prediction) | ML-based fraudulent job detection | Python, Scikit-learn |
+| [Xss_Vulnerability_LLm_Agent](https://github.com/PJDEEPESH/Xss_Vulnerability_LLm_Agent) | Security vulnerability analysis with LLM | Python, PHP |
+
+---
+
+## Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -129,7 +169,7 @@ I don't just fine-tune prompts. I **architect, ship, and lead** — designing sy
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PJDEEPESH&show_icons=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&border_color=00D9FF22" height="165" />
@@ -142,11 +182,11 @@ I don't just fine-tune prompts. I **architect, ship, and lead** — designing sy
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm always open to collaborating on **AI products, automation systems, and anything that pushes the limits of what LLMs can do in production.**
 
-📬 **deepeshp.j.2004@gmail.com** | 📍 Hyderabad, India
+Email: deepeshp.j.2004@gmail.com | Location: Hyderabad, India
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PJDEEPESH&color=00D9FF&style=flat-square" />
